@@ -1,6 +1,6 @@
-# Delivery System
+# Sistema de Delivery
 
-Um projeto web de demonstração para um sistema de delivery, construído com Next.js 14, React 18 e Tailwind CSS. Inclui componentes de UI e um carrinho de compras (ex.: sidebar do carrinho) para simular a experiência de selecionar produtos e finalizar um pedido.
+Um projeto web de demonstração para um sistema de delivery, construído com Next.js, React e Tailwind CSS. Inclui componentes de UI e um carrinho de compras (ex.: sidebar do carrinho) para simular a experiência de selecionar produtos e finalizar um pedido.
 
 ## Requisitos
 - Node.js 18 ou superior
